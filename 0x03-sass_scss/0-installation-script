@@ -1,0 +1,6 @@
+Objective: installed and set up SASS
+
+Instructions:
+
+Inside the alx-intermediate-frontend repository, created a new directory called 0x03-sass_scss
+Ran: npm install sass -v 3.7.4 on git bash
